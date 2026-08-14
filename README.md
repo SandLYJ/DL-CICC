@@ -1,6 +1,6 @@
 # Dual-Level Cross- and Intra–Modal Contrastive Clustering(DL-CICC)
 
-This is the offical implementation of our paper entitled “Dual-Level Cross- and Intra–Modal Contrastive Clustering”, which has been accept by the 8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025). 
+This is the offical implementation of our paper entitled “Dual-Level Cross- and Intra–Modal Contrastive Clustering”, which has been accept by the 8th Chinese Conference on Pattern Recognition and Computer Vision [(PRCV 2025)acceptance rate is 29.58%]. 
 
 # Proposed Framework
 
